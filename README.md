@@ -1,4 +1,7 @@
-### Hi there 👋
+<div display="flex">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=leewes5928&theme=default&show_icons=true" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewes5928&layout=compact" />
+</div>
 
 <!--
 **leewes5928/leewes5928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
